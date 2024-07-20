@@ -82,15 +82,15 @@ Here's my tech stack I'm currently used to and prefer:
 ## ❤ Views and Followers
     
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=codewithowais">
+    <img src="https://komarev.com/ghpvc/?username=DarkxSurfer">
 </a>
-<a href="https://github.com/codewothowais?tab=followers"><img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge"></a> 
+<a href="https://github.com/DarkxSurfer?tab=followers"><img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge"></a> 
     
     
 ### Status
     
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithowais&theme=dark&count_private=true&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithowais&layout=compact&theme=dark&langs_count=50" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkxSurfer&theme=dark&count_private=true&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxSurfer&layout=compact&theme=dark&langs_count=50" />
 
     

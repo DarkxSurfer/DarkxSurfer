@@ -33,7 +33,7 @@ Reach out to me directly through:
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCs9sIyM5vr-YumfgGdZpkOw/" target="_blank">
+<a href="https://www.youtube.com/@darksurfer9735" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 

@@ -41,7 +41,7 @@ Reach out to me directly through:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://codewithowais.medium.com/" target="_blank">
+<a href="https://medium.com/@darkxurfer" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 

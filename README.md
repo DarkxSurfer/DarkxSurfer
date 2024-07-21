@@ -17,7 +17,7 @@ Reach out to me directly through:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/CodeWithOwais/" target="_blank">
+<a href="https://twitter.com//" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
@@ -25,11 +25,11 @@ Reach out to me directly through:
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com//" target="_blank">
+<a href="https://www.facebook.com/meezaab" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/messages/t/codewithowais/" target="_blank">
+<a href="https://www.facebook.com/messages/t/meezaab/" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
 </a>
 

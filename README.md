@@ -66,7 +66,7 @@ Here's my tech stack I'm currently used to and prefer:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=DarkxSurfer">
 </a>
-<a href="https://github.com/DarkxSurfer?tab=followers"><img src="https://img.shields.io/github/followers/codewithowais?label=Followers&style=social" alt="GitHub Badge"></a> 
+<a href="https://github.com/DarkxSurfer?tab=followers"><img src="https://img.shields.io/github/followers/DarkxSurfer?label=Followers&style=social" alt="GitHub Badge"></a> 
     
     
 ### Status

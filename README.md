@@ -80,8 +80,8 @@ Here's my tech stack I'm currently used to and prefer:
     
     
 ### Status
-  <p><img align="left" src="https://github-readme-stats-abdulmoizs-projects.vercel.app/api/top-langs?username=AbdulMoizWali&show_icons=true&locale=en&layout=compact&size_weight=0.5&langs_count=6&hide=ShaderLab,CMake,TSQL,HLSL,GAP,Swift,GLSL,Objective-C,Objective-C%2B%2B,Inno%20Setup" alt="AbdulMoizWali" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMoizWali&" alt="AbdulMoizWali" /></p> 
+  <p><img align="left" src="https://github-readme-stats-DarkxSurfer-projects.vercel.app/api/top-langs?username=DarkxSurfer&show_icons=true&locale=en&layout=compact&size_weight=0.5&langs_count=6&hide=ShaderLab,CMake,TSQL,HLSL,GAP,Swift,GLSL,Objective-C,Objective-C%2B%2B,Inno%20Setup" alt="DarkxSurfer" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkxSurfer&" alt="DarkxSurfer" /></p> 
     
 
 

@@ -65,6 +65,11 @@ Here's my tech stack I'm currently used to and prefer:
 
 <div>
 
+## Contribution stats:
+[![DarkxSurfer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkxSurfer&custom_title=DarkxSurfer's%20Contribution&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+    
+
     
 ## ❤ Views and Followers
     
@@ -82,8 +87,3 @@ Here's my tech stack I'm currently used to and prefer:
 
 
 
-
-### Contribution stats:
-[![DarkxSurfer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkxSurfer&custom_title=DarkxSurfer's%20Contribution&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-    

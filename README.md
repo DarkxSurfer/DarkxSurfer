@@ -80,4 +80,10 @@ Here's my tech stack I'm currently used to and prefer:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkxSurfer&theme=dark&count_private=true&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxSurfer&layout=compact&theme=dark&langs_count=50" />
 
+
+
+
+### Contribution stats:
+[![DarkxSurfer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkxSurfer&custom_title=DarkxSurfer's%20Contribution&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
     

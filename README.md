@@ -3,7 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="75" />
-  </h2><h3> I'm Meezaab E Rehmat!
+  </h2><h3> I'm Meezaab E Rehmat !
 </h3>
 <div>
  <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%"  loop=infinite></div>
